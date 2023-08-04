@@ -78,4 +78,3 @@ student1.selected_topic = "Machine Learning"
 # Restarting the application process
 Application.applications = []
 
-# Note: Since this is a basic implementation, it may not handle all possible scenarios and edge cases.
